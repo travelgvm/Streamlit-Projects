@@ -2,6 +2,8 @@
 
 This project is a Streamlit-based dashboard that provides real-time or near-real-time financial data analysis. The app fetches, visualizes, and analyzes various economic indicators and financial data from different sources.
 
+https://github.com/user-attachments/assets/7534e290-3cb2-4686-8632-80b95f15938c
+
 ## Project Structure
 
 **Configuration file for app settings (titles, colors, etc.)**
